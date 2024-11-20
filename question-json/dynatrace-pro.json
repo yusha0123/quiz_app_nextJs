@@ -1,0 +1,1904 @@
+[
+    {
+        "category": "Dynatrace",
+        "id": "1",
+        "correctAnswer": "The host was shutdown and the OS sent shutdown signal before going offline (with notifications for graceful shutdowns enabled).",
+        "incorrectAnswers": [
+            "The host is not in the scope of any management zone",
+            "The host was shutdown and the OS sent shutdown signal before going offline (with default anomaly detection settings).",
+            "An ActiveGate the host was using became unavailable"
+            
+        ],
+        "question": "In which of the following scenarios will Dynatrace not create an alert for a host going offline?",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "2",
+        "correctAnswer": "A user assigned to the default Deployment-admin user group will have which of the following permissions? Select all that apply.",
+        "incorrectAnswers": [
+            "Install OneAgent",
+            "Manage security problems",
+            "Replay sessions with masking",
+            "View logs"
+        ],
+        "question": "Sample question text for question 2",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "3",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 3",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "4",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 4",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "5",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 5",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "6",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 6",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "7",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 7",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "8",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 8",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "9",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 9",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "10",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 10",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "11",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 11",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "12",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 12",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "13",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 13",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "14",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 14",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "15",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 15",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "16",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 16",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "17",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 17",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "18",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 18",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "19",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 19",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "20",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 20",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "21",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 21",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "22",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 22",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "23",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 23",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "24",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 24",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "25",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 25",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "26",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 26",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "27",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 27",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "28",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 28",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "29",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 29",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "30",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 30",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "31",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 31",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "32",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 32",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "33",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 33",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "34",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 34",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "35",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 35",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "36",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 36",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "37",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 37",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "38",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 38",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "39",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 39",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "40",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 40",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "41",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 41",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "42",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 42",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "43",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 43",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "44",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 44",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "45",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 45",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "46",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 46",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "47",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 47",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "48",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 48",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "49",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 49",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "50",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 50",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "51",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 51",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "52",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 52",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "53",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 53",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "54",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 54",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "55",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 55",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "56",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 56",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "57",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 57",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "58",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 58",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "59",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 59",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "60",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 60",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "61",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 61",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "62",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 62",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "63",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 63",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "64",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 64",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "65",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 65",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "66",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 66",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "67",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 67",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "68",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 68",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "69",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 69",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "70",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 70",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "71",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 71",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "72",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 72",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "73",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 73",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "74",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 74",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "75",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 75",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "76",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 76",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "77",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 77",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "78",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 78",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "79",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 79",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "80",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 80",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "81",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 81",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "82",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 82",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "83",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 83",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "84",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 84",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "85",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 85",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "86",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 86",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "87",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 87",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "88",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 88",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "89",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 89",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "90",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 90",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "91",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 91",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "92",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 92",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "93",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 93",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "94",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 94",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "95",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 95",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "96",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 96",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "97",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 97",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "98",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 98",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "99",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 99",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "Dynatrace",
+        "id": "100",
+        "correctAnswer": "Sample correct answer",
+        "incorrectAnswers": [
+            "Sample incorrect answer 1",
+            "Sample incorrect answer 2",
+            "Sample incorrect answer 3"
+        ],
+        "question": "Sample question text for question 100",
+        "tags": [
+            "Dynatrace",
+            "question"
+        ],
+        "type": "Multiple Choice",
+        "difficulty": "Hard",
+        "regions": [],
+        "isNiche": false
+    }
+]
